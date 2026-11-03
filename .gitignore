@@ -29,3 +29,4 @@ dist-ssr/
 *.local
 .temp
 .cache
+.vercel
